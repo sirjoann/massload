@@ -7,13 +7,13 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="#"><b>MASSLOAD</b></a>
+            <a class="navbar-brand" href="index"><b>MASSLOAD</b></a>
         </div>
 
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav navbar-right">
-                <li class="active"><a href="index">หน้าแรก</a></li>
+                <li><a href="index">หน้าแรก</a></li>
                 <li><a href="#">สินค้าของเรา</a></li>
                 <li><a href="#">เกี่ยวกับเรา</a></li>
                 <li><a href="#">บทความ</a></li>

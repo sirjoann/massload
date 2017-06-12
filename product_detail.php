@@ -2,9 +2,27 @@
 
 <!-- navbar-->
 <div id="fh5co-page">
-    <?php include './navbar.php';?>
-
-    <?php include './footer.php';?>
+    <?php include './navbar.php'; ?>
+    <div class="container">
+        <div class="row">
+            <ol class="breadcrumb">
+                <li class="breadcrumb-item"><a href="#">หน้าแรก</a></li>
+                <li class="breadcrumb-item"><a href="#">สินค้าทั้งหมด</a></li>
+                <li class="breadcrumb-item"><a href="#">กล่องหุ้มกล้องวงจรปิด</a></li>
+                <li class="breadcrumb-item active">CI-701</li>
+            </ol>
+        </div>
+        <div class="row" style="padding-bottom: 50px;">
+            <div class="col-md-6">
+                <img src="images/product-mockup.jpg" class="img-responsive">
+            </div>
+            <div class="col-md-6">
+                <h2>MASSLOAD CI-701</h2>
+                <div style="font-size: 13px;">CCTV Housing with bracket</div>
+            </div>
+        </div>
+    </div>
+    <?php include './footer.php'; ?>
 </div>
 <!-- END page-->
 
