@@ -21,6 +21,22 @@ License: Creative Commons Attribution 3.0 License
 1.0 BASE
 ///////////////////////////////////////////////////
 */
+.hcontent{
+    padding-top: 20px;
+    font-family: 'Mitr',sans-serif;
+    font-size: 15px;
+}
+.hcontent > ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+.price{
+    padding-top: 20px;
+    color: red;
+    font-weight: bold;
+    font-size: 20px;
+}
 .oo {
     font-size: 13px;
 }

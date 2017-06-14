@@ -35,8 +35,8 @@
                             <div class="col-md-push-7 col-md-5 full-height js-full-height">
                                 <div class="fh5co-cover-intro">
                                     <h1 class="cover-text-lead wow fadeInUp" data-wow-duration="1s" data-wow-delay=".5s">No.1 CCTV Housing</h1>
-                                    <h2 class="cover-text-sublead wow fadeInUp" data-wow-duration="1s" data-wow-delay=".8s">MASSLOAD No.1 Factory of Die-Cast aluminum CCTV housing and bracket</h2>
-                                    <p class="wow fadeInUp" data-wow-duration="1s" data-wow-delay="1.1s"><a href="http://freehtml5.co/" class="btn btn-primary btn-outline btn-lg">See Our Product</a></p>
+                                    <h2 class="cover-text-sublead wow fadeInUp" style="padding: 20px 0px 20px 0px;" data-wow-duration="1s" data-wow-delay=".8s">MASSLOAD No.1 Factory of Die-Cast aluminum CCTV housing and bracket</h2>
+                                    <p class="wow fadeInUp" data-wow-duration="1s" data-wow-delay="1.1s"><a href="#" class="btn btn-primary btn-outline btn-lg">See Our Product</a></p>
                                 </div>
                             </div>
                         </div>
